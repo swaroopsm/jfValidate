@@ -81,7 +81,7 @@
   <script>
   	$(document).ready(function(){
   		$("form#myForm").submit(function(){
-  			var obj = $(this).jfValidateEmpty();
+  			var obj = $(this).jfValidateEmpty(); //Validate for Emptyness.
   			console.log(obj)
   			if(obj.success){
   				$("#response-messages").html("<span class='span10 alert alert-success'>Form Validated.</span>");
