@@ -2,6 +2,8 @@
 
 A simple and easy to use jQuery form validation plugin.
 
+[Demo Here](http://swaroopsm.github.com/jfValidate/examples/example1.html)
+
 ###Usage:
 #####For Required Fields: 
 
