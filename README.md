@@ -34,6 +34,7 @@ A simple and easy to use jQuery form validation plugin.
 	obj.errors consists of the error messages.
 	
 #####@TODO:
+	* Validation for emptyness on radio buttons and checkboxes.
 	* Validations for different data-types such as email, phone etc.
 	* Parsing JSON errors and rendering messages.
 	* Ajax form submit function plugin.
